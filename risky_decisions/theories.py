@@ -1,4 +1,4 @@
-"""Calculate the values and certainty equivalents calculated by the theory of choice under risk chosen by the user and call auxilliary functions
+"""Calculate the values and certainty equivalents calculated by the theory of choice under risk and call auxilliary functions
 
 Returns:
     functions: salience theory, regret theory, expected utility theory, rank dependent utility, cumulative prospect theory
